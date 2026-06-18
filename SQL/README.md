@@ -1,6 +1,6 @@
 # LeetCode SQL
 
-My solved SQL problems, in the order I did them. Keeping these here mostly so I don't forget the reasoning later.
+My solved SQL problems, in the order I did them. 
 
 | # | Problem | Difficulty |
 |---|---|---|
@@ -13,5 +13,6 @@ My solved SQL problems, in the order I did them. Keeping these here mostly so I 
 | 184 | Department Highest Salary | Medium |
 | 185 | Department Top Three Salaries | Hard |
 | 196 | Delete Duplicate Emails | Easy |
+| 197 | Rising Temperature | Easy |
+| 262 | Trips and Users | Hard |
 
-## ADDING PROBLEMS AS I FINISH THEM
